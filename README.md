@@ -1,5 +1,5 @@
 # FireHD8-2017
-Here is how I converted my Amazon bloatware to a real Android tablet, without hardware modifications, and without using Amazon software.
+Here is how I converted my Amazon bloatware tablet to a true Android tablet, without hardware modifications, and without using Amazon software.
 ## Prerequisites
 - Fire HD 8 (2017 generation ONLY)
 - a Linux system (preferably Ubuntu 22.04, as that is what I used)
