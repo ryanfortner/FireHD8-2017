@@ -1,4 +1,6 @@
 # FireHD8-2017
+***No Longer Maintained - Please See Credits and Direct Questions To XDA Thread***
+
 Here is how I converted my Amazon bloatware tablet to a true Android tablet, without hardware modifications, and without using Amazon software.
 ## Prerequisites
 - Fire HD 8 (2017 generation ONLY)
